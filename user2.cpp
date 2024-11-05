@@ -4,6 +4,7 @@ using namespace std;
 int main(){
 
 	cout<<" user2 added this"<<endl;
-	cout<<" user 2 added another line";
+        cout<<" user1 added this to your program"<<endl;
+
 	return 0;
 }
